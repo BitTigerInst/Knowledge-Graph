@@ -1,9 +1,12 @@
+## Resources
+
 List some resources temporarily. We need to refine and re-organize them later.
 
 + [Learning Path for System Design Interview](https://github.com/checkcheckzz/system-design-interview)
 + [Blog for System Design](systemdesigns.blogspot.com)
 + [Network Application Layer: Differences and Relations among Web Tech](http://www.zhihu.com/question/22689579)
 
+## Paths
 
 A path for example：Understand Uber Backend (原则：资料尽量少和精)
 
