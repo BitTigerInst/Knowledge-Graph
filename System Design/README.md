@@ -5,21 +5,15 @@ List some resources temporarily. We need to refine and re-organize them later.
 + [Network Application Layer: Differences and Relations among Web Tech](http://www.zhihu.com/question/22689579)
 
 
-A path for example£ºUnderstand Uber Backend (Ô­Ôò£º×ÊÁÏ¾¡Á¿ÉÙºÍ¾«)
+A path for exampleï¼šUnderstand Uber Backend (åŽŸåˆ™ï¼šèµ„æ–™å°½é‡å°‘å’Œç²¾)
 
-================================
-¼ò½é -> ÏîÄ¿ -> -> -> -> -> ³É¾Í´ï³É/»ñµÃ¼¼ÄÜµã
-	|                        |
-               |<----Éú³¤Ñ§Ï°---|
-================================
++ ç®€ä»‹ [ç¡…è°·è¿›é˜¶ä¹‹è·¯ï¼šUberä»‹ç»å››ç¯‡ç« ]
+    + [ç¡…è°·ä¹‹è·¯ 14 Uberå®žæ—¶æž¶æž„çš„ä»Ž0åˆ°1](https://www.youtube.com/watch?v=g-D98E9SBfI)
+    + [ç¡…è°·ä¹‹è·¯ 16 Uberå®žæ—¶æž¶æž„çš„ä»Ž1åˆ°ä¸‡](https://www.youtube.com/watch?v=sUBP7kvhmpM)
+    + [ç¡…è°·ä¹‹è·¯ 17 Uberå†…éƒ¨åŽŸç†RingPop](https://www.youtube.com/watch?v=IGvHBdOjOI0)
+    + [ç¡…è°·ä¹‹è·¯ 18 Googleåœ°ç†ä½ç½®åº“å†…éƒ¨åŽŸç†](https://www.youtube.com/watch?v=UGknKlwEEaM)
 
-+ ¼ò½é [¹è¹È½ø½×Ö®Â·£ºUber½éÉÜËÄÆªÕÂ]
-    + [¹è¹ÈÖ®Â· 14 UberÊµÊ±¼Ü¹¹µÄ´Ó0µ½1](https://www.youtube.com/watch?v=g-D98E9SBfI)
-    + [¹è¹ÈÖ®Â· 16 UberÊµÊ±¼Ü¹¹µÄ´Ó1µ½Íò](https://www.youtube.com/watch?v=sUBP7kvhmpM)
-    + [¹è¹ÈÖ®Â· 17 UberÄÚ²¿Ô­ÀíRingPop](https://www.youtube.com/watch?v=IGvHBdOjOI0)
-    + [¹è¹ÈÖ®Â· 18 GoogleµØÀíÎ»ÖÃ¿âÄÚ²¿Ô­Àí](https://www.youtube.com/watch?v=UGknKlwEEaM)
-
-+ Éú³¤Ñ§Ï°
++ ç”Ÿé•¿å­¦ä¹ 
     + [Design Uber](http://systemdesigns.blogspot.com/2015/12/design-uber.html)
 
-+ ÏîÄ¿: [Mini Uber Backed](http://bittiger.io/microproject/CNoovWGEB2HiHxtRH)
++ é¡¹ç›®: [Mini Uber Backed](http://bittiger.io/microproject/CNoovWGEB2HiHxtRH)
