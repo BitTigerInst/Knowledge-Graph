@@ -24,4 +24,8 @@
 
 #Markdown
 - [Writing and Formatting on github](https://help.github.com/articles/about-writing-and-formatting-on-github/)
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Markdown Cheatsheet](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+#Other
+- [Ideal Knowledge Graph](https://github.com/aaasen/kapok)
+
